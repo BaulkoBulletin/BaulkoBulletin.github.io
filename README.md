@@ -1,1 +1,1 @@
-# baulko-bulletin.github.io
+# baulkobulletin.github.io
